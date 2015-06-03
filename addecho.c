@@ -1,8 +1,6 @@
 /* CSC209H1 Winter 2015
- * Assignment 1
  * addecho.c
- * Spencer Ogawa
- * 994417751
+ * This program adds echo on WAV file.
  */
 
 #include <stdio.h>
