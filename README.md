@@ -2,5 +2,5 @@
 Several C codes from CSC209 course at University of Toronto.
 
 1. addecho.c
-> You can add echo on a wav file.
+You can add echo on a wav file.
 
