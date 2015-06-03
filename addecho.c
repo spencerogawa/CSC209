@@ -1,6 +1,8 @@
 /* CSC209H1 Winter 2015
  * addecho.c
  * This program adds echo on WAV file.
+ * Complie this file simply by gcc and run the program.
+ * Then you see the usage of this program.
  */
 
 #include <stdio.h>
