@@ -3,9 +3,9 @@ Several C codes (assignments/projects) from CSC209H1 course at University of Tor
 
 ##### addecho.c
 
-You can add echo on a wav file.
+  You can add echo on a wav file.
 
 ##### remvocal.c
 
-You can remove vocal from a wav file.
+  You can remove vocal from a wav file.
 
